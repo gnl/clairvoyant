@@ -7,7 +7,7 @@
 ;          (.trim)
 ;          (subs 1))))
 
-(defproject gnl/clairvoyant "0.2.2-SNAPSHOT"
+(defproject gnl/clairvoyant "0.2.3-SNAPSHOT"
   :description "ClojureScript tracing library"
   :url "http://github.com/spellhouse/clairvoyant"
   :license {:name "Eclipse Public License"
